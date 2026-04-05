@@ -119,12 +119,21 @@ On Windows:
 
 
 
-<img width="1914" height="1014" alt="Screenshot 2026-04-05 011729" src="https://github.com/user-attachments/assets/0653f0b8-2f85-466f-9923-ee442581615e" />
-
-
 
 
 ## Notes
 
 - The repository currently does not include showcase screenshots, so this README stays text-first.
 - The QR payment flow opens supported UPI apps and records the action from PayTrack's side, but final payment confirmation still happens inside the selected UPI app.
+
+
+
+![WhatsApp Image 2026-04-05 at 4 03 24 PM](https://github.com/user-attachments/assets/aeb4c28b-331b-4cac-9890-80691605c88b)
+![WhatsApp Image 2026-04-05 at 4 03 25 PM](https://github.com/user-attachments/assets/2ffbf671-9061-4ef3-880e-10d8339a70a9)
+![WhatsApp Image 2026-04-05 at 4 03 25 PM](https://github.com/user-attachments/assets/af7cd701-a920-4554-b26e-c1ca1f801cd4)
+
+![WhatsApp Image 2026-04-05 at 4 03 25 PM,](https://github.com/user-attachments/assets/efc16dd1-4aed-4c88-b725-ee4982606de5)
+![WhatsApp Image 2026-04-05 at 4 03 25 PMm](https://github.com/user-attachments/assets/813fc5d2-f2dd-42b9-9928-bf0149ee64db)
+![WhatsApp Image 2026-04-05 at 4 03 26 PM](https://github.com/user-attachments/assets/1293f0aa-e27f-4e07-9222-f06aeacde24b)![WhatsApp Image 2026-04-05 at 4 03 26 PMj](https://github.com/user-attachments/assets/349a96e0-3b45-496c-b5ed-ac898fea215c)
+
+![WhatsApp Image 2026-04-05 at 4 03 27 PMk](https://github.com/user-attachments/assets/0cde2acd-0a06-4419-9f8e-a86ee720f298)
