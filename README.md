@@ -117,6 +117,13 @@ On Windows:
 - Insights view for spending patterns and trend tracking
 - UPI QR flow that bridges payment launch and expense recording
 
+
+
+<img width="1914" height="1014" alt="Screenshot 2026-04-05 011729" src="https://github.com/user-attachments/assets/0653f0b8-2f85-466f-9923-ee442581615e" />
+
+
+
+
 ## Notes
 
 - The repository currently does not include showcase screenshots, so this README stays text-first.
